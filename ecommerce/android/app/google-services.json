@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "843392182593",
+    "project_id": "todolist-e73d2",
+    "storage_bucket": "todolist-e73d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843392182593:android:8b43f7109cf77a6a20d9c0",
+        "android_client_info": {
+          "package_name": "com.example.iray_my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKzXws6HxX_V0YJRvwVyNxFrszzwnn2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843392182593:android:2ecd854561ed4e0520d9c0",
+        "android_client_info": {
+          "package_name": "com.example.iraymyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKzXws6HxX_V0YJRvwVyNxFrszzwnn2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843392182593:android:4f9eafdbba56635120d9c0",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKzXws6HxX_V0YJRvwVyNxFrszzwnn2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
